@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background:linear-gradient(grey,black);
+  height: 600px;
+}
+label{
+  color: whitesmoke;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: large;
+  text-align: left;
+  text-shadow: 1px 3px 5px rgb(57, 194, 235);
+}
+input{
+  background-color: greenyellow;
+  border-radius: 10px;
+  width: 900px;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow: 1px 3px 5px black;
+  
+}
+.part{
+  position: relative;
+  display: grid;
+  column-gap: 100px;
+  margin-left: 220px;
+  padding-top: 100px;
+}
